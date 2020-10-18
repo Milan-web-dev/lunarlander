@@ -7,3 +7,7 @@ Run the program by typing "python lunarlander.py" into your command line in the 
 
 Simple Screenshot:
 ![Screenshot](http://lutzkellen.com/images/lunarlander.png)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Milan-web-dev/lunarlander/main)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/Milan-web-dev/lunarlander/main
